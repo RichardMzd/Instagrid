@@ -1,5 +1,5 @@
 # Instagrid 
-Instagrid is an app that allow you to combine in a square format and share it with your friends trough your favorite applications.
+Instagrid is an app which allow you to combine in a square format and share it with your friends through your favorite applications.
 
 About the app :
 - Available from iOS 15
